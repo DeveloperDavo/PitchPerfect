@@ -59,8 +59,9 @@ class PlaySoundsViewCountrollerViewController: UIViewController {
             playSound(echo: true)
         case .Reverb:
             playSound(echo: false)
-        
         }
+        
+        configureUI(playState: .Playing)
     }
     
     @IBAction func stopButtonPressed(_ sender: AnyObject) {
