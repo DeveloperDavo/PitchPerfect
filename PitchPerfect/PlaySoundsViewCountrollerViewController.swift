@@ -2,7 +2,7 @@
 //  PlaySoundsViewCountrollerViewController.swift
 //  PitchPerfect
 //
-//  Created by David  on 18/10/2016.
+//  Created by David on 18/10/2016.
 //
 //
 
